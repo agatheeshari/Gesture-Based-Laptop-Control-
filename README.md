@@ -1,3 +1,5 @@
+```Note: This document is a public overview of a private project, detailing its purpose, successes, and challenges. For source code access, contact the author.```
+
 # Gesture-Based Laptop Control System 🖱️
 
 The Gesture-Based Laptop Control System is an innovative Python application that enables touchless laptop control through hand gestures captured by a webcam. By integrating PyQt6 for a user-friendly interface, MediaPipe for precise hand tracking, OpenCV for webcam input, and PyAutoGUI for mouse control, this project offers a seamless, hands-free alternative to traditional mouse and trackpad input. Developed to enhance accessibility and explore novel human-computer interaction, it showcases expertise in computer vision, GUI development, and system integration.
